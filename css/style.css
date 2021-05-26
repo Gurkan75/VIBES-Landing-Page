@@ -158,8 +158,6 @@ a {
 	position: absolute;
 	top: 37px;
 	left: 406px;
-	width: 50px;
-	height: 48px;
 }
 
 .product-releases{
@@ -189,8 +187,6 @@ a {
 	position: absolute;
 	top: 45px;
 	left: 736px;
-	width: 30px;
-	height: 30px;
 }
 
 .installed-base{
@@ -220,8 +216,6 @@ a {
 	position: absolute;
 	top: 51px;
 	left: 1118px;
-	width: 30px;
-	height: 19px;
 }
 
 .subscribe{
@@ -251,8 +245,7 @@ a {
 	position: absolute;
 	top: 49px;
 	left: 1544px;
-	width: 21px;
-	height: 23px;
+
 }
 
 .account-name{
@@ -281,8 +274,6 @@ a {
 	position: absolute;
 	top: 57px;
 	left: 1755px;
-	width: 15px;
-	height: 9px;
 }
 
 .profile-picture{
@@ -290,8 +281,6 @@ a {
 	position: absolute;
 	top: 20px;
 	left: 1800px;
-	width: 80px;
-	height: 80px;
 }
 
 .release181{
@@ -527,7 +516,19 @@ a {
 	line-height: normal;
 }
 
+.instruction-icon{
+	/* Style for "Path 4787" */
+	position: absolute;
+	top: 1031px;
+	left: 20px;
+}
 
+.logout-icon{
+/* Style for "Path 4790" */
+	position: absolute;
+	top: 1032px;
+	left: 70px;
+}
 
 
 
