@@ -5,6 +5,10 @@
 	box-sizing: border-box;
 }
 
+body {
+	overflow: hidden;
+}
+
 .background {
 /* Style for "Background" */
 	width: 1920px;
@@ -126,4 +130,414 @@ a {
 	color: #0096FF;
   	text-decoration: none;
 }
+
+.release-rectangle{
+/* Style for "Rectangle" */
+	position: absolute;
+	top: 120px;
+	left: 255px;
+	width: 1602px;
+	height: 941px;
+	box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
+	border-radius: 50px;
+	border: 1px solid rgba(255, 255, 255, 0.25);
+	background-image: linear-gradient(119deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.6) 100%);
+}
+
+.release-logo {
+/* Style for "Logo-origi" */
+	position: absolute;
+	top: 35px;
+	left: 20px;
+	width: 326px;
+	height: 50px;
+}
+
+.product-icon{
+/* Style for "Path 4780" */
+	position: absolute;
+	top: 37px;
+	left: 406px;
+	width: 50px;
+	height: 48px;
+}
+
+.product-releases{
+/* Style for "VIBES PROD" */
+	position: absolute;
+	top: 50px;
+	left: 456px;
+	width: 230px;
+	height: 20px;
+	color: #000000;
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+	text-transform: uppercase;
+	/* Text style for "VIBES PROD" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.installed-icon{
+/* Style for "Path 4784" */
+	position: absolute;
+	top: 45px;
+	left: 736px;
+	width: 30px;
+	height: 30px;
+}
+
+.installed-base{
+/* Style for "VIBES PROD" */
+	position: absolute;
+	top: 50px;
+	left: 775px;
+	width: 287px;
+	height: 20px;
+	color: #000000;
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+	text-transform: uppercase;
+/* Text style for "VIBES PROD" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.subscribe-icon{
+/* Style for "Path 4791" */
+	position: absolute;
+	top: 51px;
+	left: 1118px;
+	width: 30px;
+	height: 19px;
+}
+
+.subscribe{
+/* Style for "SUBSCRIBE" */
+	position: absolute;
+	top: 50px;
+	left: 1160px;
+	width: 97px;
+	height: 20px;
+	color: #000000;
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+	text-transform: uppercase;
+/* Text style for "SUBSCRIBE" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.notification-icon{
+/* Style for "Path 4785" */
+	position: absolute;
+	top: 49px;
+	left: 1544px;
+	width: 21px;
+	height: 23px;
+}
+
+.account-name{
+	/* Style for "Gürkan Dül" */
+	position: absolute;
+	top: 48px;
+	left: 1586px;
+	width: 160px;
+	height: 24px;
+	color: #000000;
+	font-family: Montserrat;
+	font-size: 20px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+/* Text style for "Gürkan Dül" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.arrowdown-icon{
+/* Style for "Path 4786" */
+	position: absolute;
+	top: 57px;
+	left: 1755px;
+	width: 15px;
+	height: 9px;
+}
+
+.profile-picture{
+	/* Style for "Ellipse 19" */
+	position: absolute;
+	top: 20px;
+	left: 1800px;
+	width: 80px;
+	height: 80px;
+}
+
+.release181{
+/* Style for "Release 18" */
+	position: absolute;
+	top: 160px;
+	left: 20px;
+	width: 146px;
+	height: 20px;
+	color: #000000;
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+/* Text style for "Release 18" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.released-icon-181{
+/* Style for "Icon ionic" */
+	position: absolute;
+	top: 161px;
+	left: 176px;
+	width: 17px;
+	height: 17px;
+}
+
+.release182{
+/* Style for "Release 18" */
+	position: absolute;
+	top: 219px;
+	left: 20px;
+	width: 101px;
+	height: 20px;
+	color: #000000;
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+/* Text style for "Release 18" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.released-icon-182{
+/* Style for "Icon ionic" */
+	position: absolute;
+	top: 220px;
+	left: 130px;
+	width: 17px;
+	height: 17px;
+}
+
+.release191{
+/* Style for "Release 19" */
+	position: absolute;
+	top: 278px;
+	left: 20px;
+	width: 96px;
+	height: 20px;
+	color: #000000;
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+/* Text style for "Release 19" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.released-icon-191{
+/* Style for "Icon ionic" */
+	position: absolute;
+	top: 279px;
+	left: 126px;
+	width: 17px;
+	height: 17px;
+}
+
+.release194{
+/* Style for "Release 19" */
+	position: absolute;
+	top: 337px;
+	left: 20px;
+	width: 101px;
+	height: 20px;
+	color: #000000;
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+/* Text style for "Release 19" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.released-icon-194{
+/* Style for "Icon ionic" */
+	position: absolute;
+	top: 338px;
+	left: 131px;
+	width: 17px;
+	height: 17px;
+}
+
+.release201{
+/* Style for "Release 20" */
+	position: absolute;
+	top: 396px;
+	left: 20px;
+	width: 100px;
+	height: 20px;
+	color: #000000;
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+/* Text style for "Release 20" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;	
+}
+
+.released-icon-201{
+/* Style for "Icon ionic" */
+	position: absolute;
+	top: 397px;
+	left: 130px;
+	width: 17px;
+	height: 17px;
+}
+
+.release2011{
+/* Style for "Release 20" */
+	position: absolute;
+	top: 455px;
+	left: 20px;
+	width: 110px;
+	height: 20px;
+	color: #000000;
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+/* Text style for "Release 20" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;	
+}
+
+.released-icon-2011{
+/* Style for "Icon ionic" */
+	position: absolute;
+	top: 456px;
+	left: 140px;
+	width: 17px;
+	height: 17px;
+}
+
+.release202{
+/* Style for "Release 20" */
+	position: absolute;
+	top: 514px;
+	left: 20px;
+	width: 104px;
+	height: 20px;
+	color: #000000;
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+/* Text style for "Release 20" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.released-icon-202{
+/* Style for "Icon ionic" */
+	position: absolute;
+	top: 515px;
+	left: 133px;
+	width: 17px;
+	height: 17px;
+}
+
+.button-release204{
+	/* Style for "Rectangle" */
+	position: absolute;
+	top: 563px;
+	left: 9px;
+	width: 127px;
+	height: 40px;
+	border-radius: 20px;
+	background-color: #ec8a44;
+	border:0px solid;
+	color: #ffffff;
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	/* Text style for "Release 20" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
