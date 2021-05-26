@@ -1,12 +1,8 @@
 *{
+	font-family: 'Montserrat';
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-}
-
-html{
-	font-size: 14px;
-	font-family: 'Montserrat' , sans-serif;
 }
 
 .background {
@@ -24,3 +20,110 @@ html{
 	width: 522px;
 	height: 80px;
 }
+
+.login-form {
+/* Style for "Rectangle" */
+	position: absolute;
+	top: 441px;
+	left: 680px;
+	width: 560px;
+	height: 320px;
+	border-radius: 50px;
+	border: 1px solid rgba(255, 255, 255, 0.25);
+	background-image: linear-gradient(119deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.6) 100%);
+}
+
+.login-email{
+/* Style for "Path 4811" */
+	position: absolute;
+	font-family: 'Montserrat';
+	font-style: italic;
+	padding-left: 10px;
+	top: 501px;
+	left: 835px;
+	width: 250px;
+	height: 40px;
+	box-shadow: 0 1px 3px rgba(43, 62, 75, 0.2);
+	border-radius: 20px;
+	border: 0px solid;
+	/* Style for "Email..." */
+	color: #8d969b;
+	font-size: 16px;
+}
+
+.login-password{
+/* Style for "Rectangle" */
+	position: absolute;
+	font-family: Montserrat;
+	font-style: italic;
+	padding-left: 10px;
+	top: 561px;
+	left: 835px;
+	width: 250px;
+	height: 40px;
+	box-shadow: 0 1px 3px rgba(43, 62, 75, 0.2);
+	border-radius: 20px;
+	border: 0px solid;
+	/* Style for "Password…" */
+	color: #8d969b;
+	font-size: 16px;
+
+}
+
+.continue-vanderlande {
+		/* Style for "Or continu" */
+	position: absolute;
+	top: 621px;
+	left: 838px;
+	width: 246px;
+	height: 20px;
+	color: #0096ff;
+	font-family: Montserrat;
+	font-size: 16px;
+	font-style: italic;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: center;
+	/* Text style for "Or continu" */
+	color: #8d969b;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	/* Text style for "Vanderland" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.login-button{
+	/* Style for "Rectangle" */
+	position: absolute;
+	top: 660px;
+	left: 900px;
+	width: 120px;
+	height: 40px;
+	box-shadow: 0 1px 3px rgba(43, 62, 75, 0.2);
+	border-radius: 50px;
+	background-color: #ffffff;
+	border: 0px solid;
+	/* Style for "Login" */
+	color: #2b3e4b;
+	font-family: Montserrat;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 22px;
+	text-align: center;
+	/* Text style for "Login" */
+	font-style: normal;
+}
+
+a {
+	color: #000000;
+  	text-decoration: none;
+}
+
+.account-vanderlande {
+	color: #0096FF;
+  	text-decoration: none;
+}
+
