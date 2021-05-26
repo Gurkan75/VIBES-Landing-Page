@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html{
+	font-size: 14px;
+	font-family: 'Montserrat' , sans-serif;
+}
+
+.background {
+/* Style for "Background" */
+	width: 1920px;
+	height: 1080px;
+	background-image: radial-gradient(1538px 769px at 50% 50%, #f1f0ee 0%, #f2efed 62%, #e6e3e1 100%);
+}
+
+.login-logo{
+/* Style for "Logo-origi" */
+	position: absolute;
+	top: 321px;
+	left: 699px;
+	width: 522px;
+	height: 80px;
+}
