@@ -802,10 +802,112 @@ line-height: normal;
 position: absolute;
 top: 393px;
 left: 1379px;
+}
 
+.text-openbug{
+	/* Style for "Lorem ipsu" */
+position: absolute;
+top: 469px;
+left: 520px;
+width: 561px;
+height: 176px;
+color: #000000;
+font-size: 16px;
+font-weight: 500;
+text-align: left;
+/* Text style for "Lorem ipsu" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.openbug-chart{
+	/* Base style */
+position: absolute;
+top: 441px;
+left: 1176px;
+}
+
+.chart-icons{
+	/* Style for "Ellipse 20" */
+position: absolute;
+top: 646px;
+left: 1134px;
+}
+
+.chart-major{
+	/* Style for "MAJOR" */
+position: absolute;
+top: 652px;
+left: 1185px;
+width: 62px;
+height: 20px;
+color: #000000;
+font-size: 16px;
+font-weight: 700;
+text-align: left;
+text-transform: uppercase;
+/* Text style for "MAJOR" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.chart-minor{
+	/* Style for "MINOR" */
+position: absolute;
+top: 652px;
+left: 1335px;
+width: 59px;
+height: 20px;
+color: #000000;
+font-size: 16px;
+font-weight: 700;
+text-align: left;
+text-transform: uppercase;
+/* Text style for "MINOR" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.component-arrow-up{
+	/* Style for "Path 4786" */
+position: absolute;
+top: 205px;
+left: 440px;
+transform: rotate(180deg);
+}
+
+.sorted-tabel{
+	/* Style for "Rectangle" */
+position: absolute;
+top: 238px;
+left: 326px;
+background-color: #efeeed;
 }
 
 
-
-
+.sorted-button-vi-opm{
+	/* Style for "Rectangle" */
+position: absolute;
+top: 823px;
+left: 326px;
+border-radius: 50px;
+border: 1px solid rgba(255, 255, 255, 0.25);
+background-color: #efeeed;
+/* Style for "VI_OPM" */
+position: absolute;
+top: 828px;
+left: 354px;
+color: #000000;
+font-size: 10px;
+font-weight: 700;
+font-style: normal;
+text-transform: uppercase;
+/* Text style for "VI_OPM" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
 
