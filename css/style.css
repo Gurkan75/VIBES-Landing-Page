@@ -682,7 +682,6 @@ left: 330px;
 position: absolute;
 top: 823px;
 left: 326px;
-border: 1px solid rgba(255, 255, 255, 0.25);
 background-color: #efeeed;
 }
 
@@ -959,7 +958,6 @@ line-height: normal;
 	position: absolute;
 	top: 862px;
 	left: 326px;
-	border: 1px solid rgba(255, 255, 255, 0.25);
 	background-color: #efeeed;
 }
 
@@ -988,7 +986,7 @@ top: 503px;
 left: 9px;
 }
 
-.released-icon-202{
+.header-released-icon-202{
 /* Style for "Icon ionic" */
 position: absolute;
 top: 149px;
