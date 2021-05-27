@@ -479,7 +479,7 @@ a {
 	/* Style for "Rectangle" */
 	position: absolute;
 	top: 563px;
-	left: 9px;
+	left: 10px;
 	width: 127px;
 	height: 40px;
 	border-radius: 20px;
@@ -911,3 +911,93 @@ letter-spacing: normal;
 line-height: normal;
 }
 
+.sorted-button-opm-planned{
+	/* Style for "Rectangle" */
+	position: absolute;
+	top: 823px;
+	left: 518px;
+	width: 96px;
+	height: 24px;
+	border-radius: 50px;
+	border: 1px solid rgba(255, 255, 255, 0.25);
+	background-color: #f2d230;
+/* Style for "Planned" */
+	position: absolute;
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: 700;
+/* Text style for "Planned" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;	
+}
+
+.sorted-button-opm-openbug{
+	/* Style for "Rectangle" */
+	position: absolute;
+	top: 823px;
+	left: 864px;
+	width: 96px;
+	height: 24px;
+	border-radius: 50px;
+	border: 1px solid rgba(255, 255, 255, 0.25);
+	background-color: #63bf67;
+	/* Style for "76" */
+	position: absolute;
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: 700;
+	text-align: center;
+/* Text style for "76" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.sorted-tabel2{
+	/* Style for "Rectangle" */
+	position: absolute;
+	top: 862px;
+	left: 326px;
+	border: 1px solid rgba(255, 255, 255, 0.25);
+	background-color: #efeeed;
+}
+
+.release204{
+	/* Style for "Release 20" */
+	position: absolute;
+	top: 573px;
+	left: 20px;
+	width: 105px;
+	height: 20px;
+	color: #000000;
+	font-size: 16px;
+	font-weight: 700;;
+	text-align: left;
+	/* Text style for "Release 20" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+
+.button-release202{
+	/* Style for "Rectangle" */
+position: absolute;
+top: 503px;
+left: 9px;
+}
+
+.released-icon-202{
+/* Style for "Icon ionic" */
+position: absolute;
+top: 149px;
+left: 592px;
+}
+
+.released-tabel-202{
+	/* Style for "COMPONENT" */
+position: absolute;
+top: 199px;
+left: 417px;
+}
