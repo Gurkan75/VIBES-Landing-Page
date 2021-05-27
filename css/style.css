@@ -999,3 +999,31 @@ position: absolute;
 top: 199px;
 left: 417px;
 }
+
+.subscribe-selected{
+	/* Style for "Rectangle" */
+position: absolute;
+top: 40px;
+left: 1104px;
+}
+
+.tabel-title-subscribe{
+/* Style for "VIBES Land" */
+position: absolute;
+top: 146px;
+left: 320px;
+width: 323px;
+height: 24px;
+color: #000000;
+font-family: Montserrat;
+font-size: 20px;
+font-weight: 700;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+text-align: left;
+/* Text style for "VIBES Land" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
