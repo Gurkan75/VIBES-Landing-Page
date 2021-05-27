@@ -709,3 +709,103 @@ border-radius: 50px;
 background-color: #e6e3e1;
 }
 
+.vi-opm-information{
+	/* Style for "VI_OPM - C" */
+position: absolute;
+top: 405px;
+left: 520px;
+width: 399px;
+height: 24px;
+color: #000000;
+font-size: 20px;
+font-weight: 700;
+text-align: left;
+text-transform: uppercase;
+/* Text style for "VI_OPM - C" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.title-status{
+	/* Style for "STATUS" */
+position: absolute;
+top: 446px;
+left: 520px;
+width: 72px;
+height: 22px;
+color: #000000;
+font-size: 18px;
+font-weight: 700;
+text-align: left;
+text-transform: uppercase;
+/* Text style for "STATUS" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.text-status{
+	/* Style for "Lorem ipsu" */
+position: absolute;
+top: 478px;
+left: 520px;
+width: 409px;
+height: 195px;
+color: #000000;
+font-size: 16px;
+font-weight: 500;
+text-align: left;
+/* Text style for "Lorem ipsu" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.title-planning{
+	/* Style for "PLANNING" */
+position: absolute;
+top: 446px;
+left: 969px;
+width: 102px;
+height: 22px;
+color: #000000;
+font-size: 18px;
+font-weight: 700;
+text-align: left;
+text-transform: uppercase;
+/* Text style for "PLANNING" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.text-planning{
+	/* Style for "Lorem ipsu" */
+position: absolute;
+top: 478px;
+left: 969px;
+width: 409px;
+height: 195px;
+color: #000000;
+font-size: 16px;
+font-weight: 500;
+text-align: left;
+/* Text style for "Lorem ipsu" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.component-info-cancel{
+	/* Style for "Path 414" */
+position: absolute;
+top: 393px;
+left: 1379px;
+
+}
+
+
+
+
+
