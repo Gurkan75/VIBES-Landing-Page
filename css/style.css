@@ -40,7 +40,6 @@ body {
 .login-email{
 /* Style for "Path 4811" */
 	position: absolute;
-	font-family: 'Montserrat';
 	font-style: italic;
 	padding-left: 10px;
 	top: 501px;
@@ -58,7 +57,6 @@ body {
 .login-password{
 /* Style for "Rectangle" */
 	position: absolute;
-	font-family: Montserrat;
 	font-style: italic;
 	padding-left: 10px;
 	top: 561px;
@@ -82,7 +80,6 @@ body {
 	width: 246px;
 	height: 20px;
 	color: #0096ff;
-	font-family: Montserrat;
 	font-size: 16px;
 	font-style: italic;
 	letter-spacing: normal;
@@ -112,7 +109,6 @@ body {
 	border: 0px solid;
 	/* Style for "Login" */
 	color: #2b3e4b;
-	font-family: Montserrat;
 	font-size: 16px;
 	font-weight: 700;
 	line-height: 22px;
@@ -140,8 +136,6 @@ a {
 	height: 941px;
 	box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
 	border-radius: 50px;
-	border: 1px solid rgba(255, 255, 255, 0.25);
-	background-image: linear-gradient(119deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.6) 100%);
 }
 
 .release-logo {
@@ -168,7 +162,6 @@ a {
 	width: 230px;
 	height: 20px;
 	color: #000000;
-	font-family: Montserrat;
 	font-size: 16px;
 	font-weight: 700;
 	font-style: normal;
@@ -197,7 +190,6 @@ a {
 	width: 287px;
 	height: 20px;
 	color: #000000;
-	font-family: Montserrat;
 	font-size: 16px;
 	font-weight: 700;
 	font-style: normal;
@@ -226,7 +218,6 @@ a {
 	width: 97px;
 	height: 20px;
 	color: #000000;
-	font-family: Montserrat;
 	font-size: 16px;
 	font-weight: 700;
 	font-style: normal;
@@ -245,7 +236,6 @@ a {
 	position: absolute;
 	top: 49px;
 	left: 1544px;
-
 }
 
 .account-name{
@@ -256,7 +246,6 @@ a {
 	width: 160px;
 	height: 24px;
 	color: #000000;
-	font-family: Montserrat;
 	font-size: 20px;
 	font-weight: 700;
 	font-style: normal;
@@ -291,7 +280,6 @@ a {
 	width: 146px;
 	height: 20px;
 	color: #000000;
-	font-family: Montserrat;
 	font-size: 16px;
 	font-weight: 700;
 	font-style: normal;
@@ -321,7 +309,6 @@ a {
 	width: 101px;
 	height: 20px;
 	color: #000000;
-	font-family: Montserrat;
 	font-size: 16px;
 	font-weight: 700;
 	font-style: normal;
@@ -351,7 +338,6 @@ a {
 	width: 96px;
 	height: 20px;
 	color: #000000;
-	font-family: Montserrat;
 	font-size: 16px;
 	font-weight: 700;
 	font-style: normal;
@@ -381,7 +367,6 @@ a {
 	width: 101px;
 	height: 20px;
 	color: #000000;
-	font-family: Montserrat;
 	font-size: 16px;
 	font-weight: 700;
 	font-style: normal;
@@ -411,7 +396,6 @@ a {
 	width: 100px;
 	height: 20px;
 	color: #000000;
-	font-family: Montserrat;
 	font-size: 16px;
 	font-weight: 700;
 	font-style: normal;
@@ -441,7 +425,6 @@ a {
 	width: 110px;
 	height: 20px;
 	color: #000000;
-	font-family: Montserrat;
 	font-size: 16px;
 	font-weight: 700;
 	font-style: normal;
@@ -471,7 +454,6 @@ a {
 	width: 104px;
 	height: 20px;
 	color: #000000;
-	font-family: Montserrat;
 	font-size: 16px;
 	font-weight: 700;
 	font-style: normal;
@@ -504,7 +486,6 @@ a {
 	background-color: #ec8a44;
 	border:0px solid;
 	color: #ffffff;
-	font-family: Montserrat;
 	font-size: 16px;
 	font-weight: 700;
 	font-style: normal;
@@ -530,15 +511,201 @@ a {
 	left: 70px;
 }
 
+.tabel-title{
+/* Style for "VIBES Land" */
+	position: absolute;
+	top: 146px;
+	left: 320px;
+	width: 264px;
+	height: 24px;
+	color: #000000;
+	font-size: 20px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+	/* Text style for "VIBES Land" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.last-updated{
+/* Style for "Last updat" */
+	position: absolute;
+	top: 147px;
+	left: 1404px;
+	width: 341px;
+	height: 20px;
+	color: #000000;
+	font-size: 16px;
+	font-weight: 100;
+	font-style: italic;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+/* Text style for "Last updat" */
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.component-title{
+/* Style for "COMPONENT" */
+	position: absolute;
+	top: 199px;
+	left: 318px;
+	width: 112px;
+	height: 20px;
+	color: #000000;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+	text-transform: uppercase;
+	/* Text style for "COMPONENT" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.kolom-title{
+/* Style for "DELIVERY S" */
+	position: absolute;
+	top: 199px;
+	left: 500px;
+	color: #000000;
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+	text-align: left;
+	text-transform: uppercase;
+/* Text style for "DELIVERY S" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+
+}
+
+.component-arrow-down{
+/* Style for "Path 4786" */
+	position: absolute;
+	top: 204px;
+	left: 440px;
+	width: 12px;
+	height: 8px;
+}
+
+.release-tabel{
+/* Style for "Rectangle" */
+position: absolute;
+top: 238px;
+left: 330px;
+}
+
+.button-vi-opm{
+/* Style for "Rectangle" */
+	position: absolute;
+	top: 784px;
+	left: 326px;
+	width: 96px;
+	height: 24px;
+	border-radius: 50px;
+	border: 1px solid rgba(255, 255, 255, 0.25);
+	background-color: #efeeed;
+/* Style for "VI_OPM" */
+	position: absolute;
+	top: 789px;
+	left: 354px;
+	width: 41px;
+	height: 13px;
+	color: #000000;
+	font-size: 10px;
+	font-weight: 700;
+	text-align: left;
+	text-transform: uppercase;
+	/* Text style for "VI_OPM" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.button-opm-openbug{
+/* Style for "Rectangle" */
+	position: absolute;
+	top: 784px;
+	left: 868px;
+	width: 96px;
+	height: 24px;
+	border-radius: 50px;
+	border: 1px solid rgba(255, 255, 255, 0.25);
+	background-color: #62be66;
+/* Style for "76" */
+	position: absolute;
+	color: #ffffff;
+	font-size: 14px;
+	font-weight: 700;
+	text-align: center;
+/* Text style for "76" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.button-opm-planned{
+/* Style for "Rectangle" */
+	position: absolute;
+	top: 784px;
+	left: 518px;
+	width: 96px;
+	height: 24px;
+	border-radius: 50px;
+	border: 1px solid rgba(255, 255, 255, 0.25);
+	background-color: #f2d230;
+/* Style for "Planned" */
+	position: absolute;
+	color: #ffffff;
+	font-size: 12px;
+	font-weight: 700;
+/* Text style for "Planned" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.release-tabel2{
+	/* Style for "Rectangle" */
+position: absolute;
+top: 823px;
+left: 326px;
+border: 1px solid rgba(255, 255, 255, 0.25);
+background-color: #efeeed;
+}
 
 
+.black-overlay{
+	/* Style for "Rectangle" */
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(0, 0, 0, 0.5);
+}
 
-
-
-
-
-
-
-
-
+.component-informatie{
+	/* Style for "Rectangle" */
+position: absolute;
+top: 369px;
+left: 480px;
+width: 960px;
+height: 342px;
+box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
+border-radius: 50px;
+background-color: #e6e3e1;
+}
 
