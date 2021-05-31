@@ -164,9 +164,6 @@ a {
 	color: #000000;
 	font-size: 16px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 	text-transform: uppercase;
 	/* Text style for "VIBES PROD" */
@@ -192,9 +189,6 @@ a {
 	color: #000000;
 	font-size: 16px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 	text-transform: uppercase;
 /* Text style for "VIBES PROD" */
@@ -220,9 +214,6 @@ a {
 	color: #000000;
 	font-size: 16px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 	text-transform: uppercase;
 /* Text style for "SUBSCRIBE" */
@@ -248,9 +239,6 @@ a {
 	color: #000000;
 	font-size: 20px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 /* Text style for "Gürkan Dül" */
 	font-style: normal;
@@ -282,9 +270,6 @@ a {
 	color: #000000;
 	font-size: 16px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 /* Text style for "Release 18" */
 	font-style: normal;
@@ -311,9 +296,6 @@ a {
 	color: #000000;
 	font-size: 16px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 /* Text style for "Release 18" */
 	font-style: normal;
@@ -340,9 +322,6 @@ a {
 	color: #000000;
 	font-size: 16px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 /* Text style for "Release 19" */
 	font-style: normal;
@@ -369,9 +348,6 @@ a {
 	color: #000000;
 	font-size: 16px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 /* Text style for "Release 19" */
 	font-style: normal;
@@ -398,9 +374,6 @@ a {
 	color: #000000;
 	font-size: 16px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 /* Text style for "Release 20" */
 	font-style: normal;
@@ -427,9 +400,6 @@ a {
 	color: #000000;
 	font-size: 16px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 /* Text style for "Release 20" */
 	font-style: normal;
@@ -456,9 +426,6 @@ a {
 	color: #000000;
 	font-size: 16px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 /* Text style for "Release 20" */
 	font-style: normal;
@@ -488,9 +455,6 @@ a {
 	color: #ffffff;
 	font-size: 16px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	/* Text style for "Release 20" */
 	font-style: normal;
 	letter-spacing: normal;
@@ -521,9 +485,6 @@ a {
 	color: #000000;
 	font-size: 20px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 	/* Text style for "VIBES Land" */
 	font-style: normal;
@@ -560,9 +521,6 @@ a {
 	color: #000000;
 	font-size: 16px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 	text-transform: uppercase;
 	/* Text style for "COMPONENT" */
@@ -579,9 +537,6 @@ a {
 	color: #000000;
 	font-size: 16px;
 	font-weight: 700;
-	font-style: normal;
-	letter-spacing: normal;
-	line-height: normal;
 	text-align: left;
 	text-transform: uppercase;
 /* Text style for "DELIVERY S" */
@@ -1009,21 +964,581 @@ left: 1104px;
 
 .tabel-title-subscribe{
 /* Style for "VIBES Land" */
+	position: absolute;
+	top: 146px;
+	left: 320px;
+	width: 323px;
+	height: 24px;
+	color: #000000;
+	font-size: 20px;
+	font-weight: 700;
+	text-align: left;
+	/* Text style for "VIBES Land" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.sub-release181{
+/* Style for "Rectangle" */
+	position: absolute;
+	top: 204px;
+	left: 316px;
+	width: 264px;
+	height: 150px;
+	box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
+	border-radius: 50px;
+	border: 1px solid rgba(255, 255, 255, 0.25);
+	background-image: linear-gradient(119deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.6) 100%);
+}
+
+.sub-release181-header{
+	/* Style for "Release 18" */
+	position: absolute;
+	top: 231px;
+	left: 357px;
+	width: 183px;
+	height: 24px;
+	color: #000000;
+	font-size: 20px;
+	font-weight: 700;
+	text-align: left;
+	/* Text style for "Release 18" */
+	font-style: normal;
+	letter-spacing: normal;
+	line-height: normal;
+}
+
+.sub-release181-button{
+	/* Style for "Rectangle" */
+	position: absolute;
+	top: 278px;
+	left: 377px;
+	width: 133px;
+	height: 40px;
+	box-shadow: 0 1px 3px rgba(43, 62, 75, 0.2);
+	border-radius: 50px;
+	background-color: #ffffff;
+	border: 0px solid;
+}	
+
+.sub-release181-button-text{
+/* Style for "SUBSCRIBE" */
 position: absolute;
-top: 146px;
-left: 320px;
-width: 323px;
+top: 289px;
+left: 400px;
+width: 86px;
+height: 18px;
+color: #2b3e4b;
+font-size: 14px;
+font-weight: 700;
+text-align: center;
+text-transform: uppercase;
+/* Text style for "SUBSCRIBE" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.sub-release182{
+/* Style for "Rectangle" */
+position: absolute;
+top: 204px;
+left: 620px;
+width: 264px;
+height: 150px;
+box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
+border-radius: 50px;
+border: 1px solid rgba(255, 255, 255, 0.25);
+background-image: linear-gradient(119deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.6) 100%);
+}
+
+.sub-release182-header{
+/* Style for "Release 18" */
+position: absolute;
+top: 227px;
+left: 690px;
+width: 126px;
 height: 24px;
 color: #000000;
-font-family: Montserrat;
 font-size: 20px;
 font-weight: 700;
-font-style: normal;
-letter-spacing: normal;
-line-height: normal;
 text-align: left;
-/* Text style for "VIBES Land" */
+/* Text style for "Release 18" */
 font-style: normal;
 letter-spacing: normal;
 line-height: normal;
+}
+
+.sub-release182-button{
+/* Style for "Rectangle" */
+position: absolute;
+top: 278px;
+left: 686px;
+width: 133px;
+height: 40px;
+box-shadow: 0 1px 3px rgba(43, 62, 75, 0.2);
+border-radius: 50px;
+background-color: #ec8a44;
+border: 0px solid;
+}
+
+.sub-release182-button-text{
+/* Style for "SUBSCRIBED" */
+position: absolute;
+top: 289px;
+left: 696px;
+width: 91px;
+height: 17px;
+color: #ffffff;
+font-size: 13px;
+font-weight: 700;
+text-align: center;
+text-transform: uppercase;
+/* Text style for "SUBSCRIBED" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.sub-release182-vinkicon{
+/* Style for "Path 4798" */
+position: absolute;
+top: 292px;
+left: 794px;
+width: 15px;
+height: 12px;
+}
+
+.sub-release191{
+/* Style for "Rectangle" */
+position: absolute;
+top: 204px;
+left: 924px;
+width: 264px;
+height: 150px;
+box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
+border-radius: 50px;
+border: 1px solid rgba(255, 255, 255, 0.25);
+background-image: linear-gradient(119deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.6) 100%);	
+}
+
+.sub-release191-header{
+	/* Style for "Release 19" */
+position: absolute;
+top: 231px;
+left: 994px;
+width: 120px;
+height: 24px;
+color: #000000;
+font-size: 20px;
+font-weight: 700;
+text-align: left;
+/* Text style for "Release 19" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.sub-release191-button{
+	/* Style for "Rectangle" */
+position: absolute;
+top: 278px;
+left: 988px;
+width: 133px;
+height: 40px;
+box-shadow: 0 1px 3px rgba(43, 62, 75, 0.2);
+border-radius: 50px;
+background-color: #ffffff;
+border: 0px solid;
+}
+
+.sub-release191-button-text{
+	/* Style for "SUBSCRIBE" */
+position: absolute;
+top: 289px;
+left: 1011px;
+width: 86px;
+height: 18px;
+color: #2b3e4b;
+font-size: 14px;
+font-weight: 700;
+text-align: center;
+text-transform: uppercase;
+/* Text style for "SUBSCRIBE" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.sub-release194{
+	/* Style for "Rectangle" */
+position: absolute;
+top: 204px;
+left: 1228px;
+width: 264px;
+height: 150px;
+box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
+border-radius: 50px;
+border: 1px solid rgba(255, 255, 255, 0.25);
+background-image: linear-gradient(119deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.6) 100%);
+}
+
+.sub-release194-header{
+	/* Style for "Release 19" */
+position: absolute;
+top: 232px;
+left: 1298px;
+width: 127px;
+height: 24px;
+color: #000000;
+font-size: 20px;
+font-weight: 700;
+text-align: left;
+/* Text style for "Release 19" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.sub-release194-button{
+/* Style for "Rectangle" */
+position: absolute;
+top: 278px;
+left: 1294px;
+width: 133px;
+height: 40px;
+box-shadow: 0 1px 3px rgba(43, 62, 75, 0.2);
+border-radius: 50px;
+background-color: #ec8a44;
+border: 0px solid;
+}
+
+.sub-release194-button-text{
+/* Style for "SUBSCRIBED" */
+position: absolute;
+top: 289px;
+left: 1304px;
+width: 91px;
+height: 17px;
+color: #ffffff;
+font-size: 13px;
+font-weight: 700;
+text-align: center;
+text-transform: uppercase;
+/* Text style for "SUBSCRIBED" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.sub-release194-vinkicon{
+/* Style for "Path 4798" */
+position: absolute;
+top: 292px;
+left: 1402px;
+width: 15px;
+height: 12px;
+}
+
+.sub-release201{
+/* Style for "Rectangle" */
+position: absolute;
+top: 204px;
+left: 1532px;
+width: 264px;
+height: 150px;
+box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
+border-radius: 50px;
+border: 1px solid rgba(255, 255, 255, 0.25);
+background-image: linear-gradient(119deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.6) 100%);	
+}
+
+.sub-release201-header{
+/* Style for "Release 20" */
+position: absolute;
+top: 223px;
+left: 1604px;
+width: 125px;
+height: 24px;
+color: #000000;
+font-size: 20px;
+font-weight: 700;
+text-align: left;
+/* Text style for "Release 20" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;	
+}
+
+.sub-release201-button{
+/* Style for "Rectangle" */
+position: absolute;
+top: 278px;
+left: 1600px;
+width: 133px;
+height: 40px;
+box-shadow: 0 1px 3px rgba(43, 62, 75, 0.2);
+border-radius: 50px;
+background-color: #ec8a44;
+border:0px solid;
+}
+
+.sub-release201-button-text{
+/* Style for "SUBSCRIBED" */
+position: absolute;
+top: 289px;
+left: 1610px;
+width: 91px;
+height: 17px;
+color: #ffffff;
+font-size: 13px;
+font-weight: 700;
+text-align: center;
+text-transform: uppercase;
+/* Text style for "SUBSCRIBED" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;	
+}
+
+.sub-release201-vinkicon{
+/* Style for "Path 4798" */
+position: absolute;
+top: 292px;
+left: 1708px;
+width: 15px;
+height: 12px;
+}
+
+.sub-release2011{
+/* Style for "Rectangle" */
+position: absolute;
+top: 394px;
+left: 316px;
+width: 264px;
+height: 150px;
+box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
+border-radius: 50px;
+border: 1px solid rgba(255, 255, 255, 0.25);
+background-image: linear-gradient(119deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.6) 100%);
+}
+
+.sub-release2011-header{
+/* Style for "Release 20" */
+position: absolute;
+top: 426px;
+left: 380px;
+width: 138px;
+height: 24px;
+color: #000000;
+font-size: 20px;
+font-weight: 700;
+text-align: left;
+/* Text style for "Release 20" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.sub-release2011-button{
+/* Style for "Rectangle" */
+position: absolute;
+top: 473px;
+left: 378px;
+width: 133px;
+height: 40px;
+box-shadow: 0 1px 3px rgba(43, 62, 75, 0.2);
+border-radius: 50px;
+background-color: #ffffff;
+border:0px solid;
+}
+
+.sub-release2011-button-text{/* Style for "SUBSCRIBE" */
+position: absolute;
+top: 484px;
+left: 401px;
+width: 86px;
+height: 18px;
+color: #2b3e4b;
+font-size: 14px;
+font-weight: 700;
+text-align: center;
+text-transform: uppercase;
+/* Text style for "SUBSCRIBE" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+
+.sub-release202{
+/* Style for "Rectangle" */
+position: absolute;
+top: 394px;
+left: 620px;
+width: 264px;
+height: 150px;
+box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
+border-radius: 50px;
+border: 1px solid rgba(255, 255, 255, 0.25);
+background-image: linear-gradient(119deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.6) 100%);
+}
+
+.sub-release202-header{
+/* Style for "Release 20" */
+position: absolute;
+top: 422px;
+left: 690px;
+width: 130px;
+height: 24px;
+color: #000000;
+font-size: 20px;
+font-weight: 700;
+text-align: left;
+/* Text style for "Release 20" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.sub-release202-button{
+/* Style for "Rectangle" */
+position: absolute;
+top: 477px;
+left: 686px;
+width: 133px;
+height: 40px;
+box-shadow: 0 1px 3px rgba(43, 62, 75, 0.2);
+border-radius: 50px;
+background-color: #ec8a44;
+border:0px solid;
+}
+
+.sub-release202-button-text{
+/* Style for "SUBSCRIBED" */
+position: absolute;
+top: 488px;
+left: 696px;
+width: 91px;
+height: 17px;
+color: #ffffff;
+font-size: 13px;
+font-weight: 700;
+text-align: center;
+text-transform: uppercase;
+/* Text style for "SUBSCRIBED" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.sub-release202-vinkicon{
+	/* Style for "Path 4798" */
+position: absolute;
+top: 491px;
+left: 794px;
+width: 15px;
+height: 12px;
+}
+
+.sub-release204{
+/* Style for "Rectangle" */
+position: absolute;
+top: 394px;
+left: 924px;
+width: 264px;
+height: 150px;
+box-shadow: 15px 15px 50px rgba(0, 0, 0, 0.2);
+border-radius: 50px;
+border: 1px solid rgba(255, 255, 255, 0.25);
+background-image: linear-gradient(119deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.6) 100%);
+}
+
+.sub-release204-header{
+/* Style for "Release 20" */
+position: absolute;
+top: 422px;
+left: 994px;
+width: 131px;
+height: 24px;
+color: #000000;
+font-size: 20px;
+font-weight: 700;
+text-align: left;
+/* Text style for "Release 20" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.sub-release204-button{
+/* Style for "Rectangle" */
+position: absolute;
+top: 477px;
+left: 988px;
+width: 133px;
+height: 40px;
+box-shadow: 0 1px 3px rgba(43, 62, 75, 0.2);
+border-radius: 50px;
+background-color: #ffffff;
+border:0px solid;
+}
+
+.sub-release204-button-text{
+/* Style for "SUBSCRIBE" */
+position: absolute;
+top: 488px;
+left: 1011px;
+width: 86px;
+height: 18px;
+color: #2b3e4b;
+font-size: 14px;
+font-weight: 700;
+text-align: center;
+text-transform: uppercase;
+/* Text style for "SUBSCRIBE" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.sub-release204-buttonsubbed{
+	/* Style for "Rectangle" */
+position: absolute;
+top: 477px;
+left: 985px;
+width: 133px;
+height: 40px;
+box-shadow: 0 1px 3px rgba(43, 62, 75, 0.2);
+border-radius: 50px;
+background-color: #ec8a44;
+border:0px solid;
+}
+
+.sub-release204-button-text-subbed{
+/* Style for "SUBSCRIBED" */
+position: absolute;
+top: 488px;
+left: 995px;
+width: 91px;
+height: 17px;
+color: #ffffff;
+font-size: 13px;
+font-weight: 700;
+text-align: center;
+text-transform: uppercase;
+/* Text style for "SUBSCRIBED" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;	
+}
+
+.sub-release204-vinkicon{
+	/* Style for "Path 4798" */
+position: absolute;
+top: 491px;
+left: 1093px;
+width: 15px;
+height: 12px;
 }
