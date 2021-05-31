@@ -1542,3 +1542,306 @@ left: 1093px;
 width: 15px;
 height: 12px;
 }
+
+.notification-bell{
+	/* Style for "Ellipse 20" */
+position: absolute;
+top: 48px;
+left: 1556px;
+}
+
+.notification{
+/* Style for "Rectangle" */
+position: absolute;
+top: 78px;
+left: 1296px;
+width: 264px;
+height: 353px;
+border-radius: 10px;
+border: 1px solid #ec8a44;
+background-color: #e6e3e1;
+}
+
+.notification-text{
+	/* Style for "30-03-2021" */
+position: absolute;
+top: 143px;
+left: 1316px;
+}
+
+.notification-header{
+	/* Style for "Notificati" */
+position: absolute;
+top: 91px;
+left: 1358px;
+width: 143px;
+height: 25px;
+color: #000000;
+font-size: 20px;
+font-weight: 700;
+text-align: left;
+/* Text style for "Notificati" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.notification-cancel{
+	/* Style for "Path 414" */
+position: absolute;
+top: 100px;
+left: 1533px;
+}
+
+.account{
+	/* Style for "Rectangle" */
+position: absolute;
+top: 78px;
+left: 1506px;
+width: 264px;
+height: 191px;
+border-radius: 10px;
+border: 1px solid #ec8a44;
+background-color: #e6e3e1;
+}
+
+.account-header{
+	/* Style for "Account" */
+position: absolute;
+top: 93px;
+left: 1594px;
+width: 89px;
+height: 25px;
+color: #000000;
+font-size: 20px;
+font-weight: 700;
+text-align: left;
+/* Text style for "Account" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.account-cancel{
+/* Style for "Path 414" */
+position: absolute;
+top: 101px;
+left: 1743px;
+}
+
+.account-text{
+	/* Style for "Notificati" */
+position: absolute;
+top: 147px;
+left: 1526px;
+
+}
+
+.header-config{
+	/* Style for "CONFIGURAT" */
+position: absolute;
+top: 200px;
+left: 320px;
+width: 144px;
+height: 20px;
+color: #000000;
+font-size: 16px;
+font-weight: 700;
+text-align: left;
+text-transform: uppercase;
+/* Text style for "CONFIGURAT" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.instruction-config{
+/* Style for "•   The pa" */
+position: absolute;
+top: 229px;
+left: 320px;
+width: 669px;
+height: 117px;
+color: #000000;
+font-size: 16px;
+font-weight: 500;
+text-align: left;
+/* Text style for "•   The pa" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.header-components{
+	/* Style for "COMPONENTS" */
+position: absolute;
+top: 363px;
+left: 320px;
+width: 123px;
+height: 20px;
+color: #000000;
+font-size: 16px;
+font-weight: 700;
+text-align: left;
+text-transform: uppercase;
+/* Text style for "COMPONENTS" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.instruction-components{
+/* Style for "These are" */
+position: absolute;
+top: 392px;
+left: 320px;
+width: 547px;
+height: 117px;
+color: #000000;
+font-size: 16px;
+font-weight: 500;
+text-align: left;
+/* Text style for "These are" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;	
+}
+
+.header-releases{
+	/* Style for "NEW RELEAS" */
+position: absolute;
+top: 526px;
+left: 320px;
+width: 133px;
+height: 20px;
+color: #000000;
+font-size: 16px;
+font-weight: 700;
+text-align: left;
+text-transform: uppercase;
+/* Text style for "NEW RELEAS" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.instruction-releases{
+/* Style for "These are" */
+/* Style for "These are" */
+position: absolute;
+top: 555px;
+left: 320px;
+width: 701px;
+height: 293px;
+color: #000000;
+font-size: 16px;
+font-weight: 500;
+text-align: left;
+/* Text style for "These are" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.header-openbug{
+/* Style for "OPEN BUGS" */
+position: absolute;
+top: 200px;
+left: 1081px;
+width: 101px;
+height: 20px;
+color: #000000;
+font-size: 16px;
+font-weight: 700;
+text-align: left;
+text-transform: uppercase;
+/* Text style for "OPEN BUGS" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.instruction-openbug{
+/* Style for "These are" */
+position: absolute;
+top: 229px;
+left: 1081px;
+width: 691px;
+height: 234px;
+color: #000000;
+font-size: 16px;
+font-weight: 500;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+text-align: left;
+}
+
+.header-maintenance{
+/* Style for "MAINTENANC" */
+position: absolute;
+top: 477px;
+left: 1081px;
+width: 127px;
+height: 20px;
+color: #000000;
+font-size: 16px;
+font-weight: 700;
+text-align: left;
+text-transform: uppercase;
+/* Text style for "MAINTENANC" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.instruction-maintenance{
+/* Style for "These are" */
+position: absolute;
+top: 506px;
+left: 1081px;
+width: 702px;
+height: 156px;
+color: #000000;
+font-size: 16px;
+font-weight: 500;
+text-align: left;
+/* Text style for "These are" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.header-dashboard{
+/* Style for "DASHBOARD" */
+position: absolute;
+top: 678px;
+left: 1081px;
+width: 112px;
+height: 20px;
+color: #000000;
+font-size: 16px;
+font-weight: 700;
+text-align: left;
+text-transform: uppercase;
+/* Text style for "DASHBOARD" */
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+}
+
+.instruction-dashboard{
+/* Style for "Account ad" */
+position: absolute;
+top: 707px;
+left: 1081px;
+width: 712px;
+height: 332px;
+color: #000000;
+font-size: 16px;
+font-weight: 500;
+font-style: normal;
+letter-spacing: normal;
+line-height: normal;
+text-align: left;
+}

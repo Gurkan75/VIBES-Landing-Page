@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>VIBES Landing Page</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="HandheldFriendly" content="true">
+</head>
+<body>
+
+<div class="background">
+<!--Links and account  -->
+	<img class="release-logo" src="img/Logo.svg">
+	<img class="product-icon" src="img/Product-icon.svg"><p class="product-releases">VIBES PRODUCT RELEASES</p>
+	<img class="installed-icon" src="img/Installed-icon.svg"><p class="installed-base">VIBES PRODUCT INSTALLED BASE</p>
+	<a href="Subscribe.html"><img class="subscribe-selected" src="img/Subscribe-icon-selected.svg"></a>
+	<img class="notification-icon" src="img/Notification-icon.svg"><p class="account-name">Gürkan Dülger</p>
+	<img class="arrowdown-icon" src="img/Arrow-down-icon.svg">
+	<img class="profile-picture" src="img/Profile-picture.svg">
+
+<!-- Instruction & logout -->
+	<a href="Instruction-page.html"><img class="instruction-icon" src="img/Instruction-icon.svg"></a>
+	<a href="Login.html"><img class="logout-icon" src="img/Logout-icon.svg"></a>
+
+<!-- Navigation Releases -->
+	<ul>
+		<li><a class="release181" href="">Release 18.1 BETA</a></li><img class="released-icon-181" src="img/released-icon.svg">
+		<li><a class="release182" href="">Release 18.2</a></li><img class="released-icon-182" src="img/released-icon.svg">
+		<li><a class="release191" href="">Release 19.1</a></li><img class="released-icon-191" src="img/released-icon.svg">
+		<li><a class="release194" href="">Release 19.4</a></li><img class="released-icon-194" src="img/released-icon.svg">
+		<li><a class="release201" href="">Release 20.1</a></li><img class="released-icon-201" src="img/released-icon.svg">
+		<li><a class="release2011" href="">Release 20.1.1</a></li><img class="released-icon-2011" src="img/released-icon.svg">
+		<li><a class="release202" href="Release20.2.html">Release 20.2</a></li><img class="released-icon-202" src="img/released-icon.svg">
+		<li><a class="release204" href="Release20.4.html">Release 20.4</li></a>
+	</ul>
+
+<!-- Table -->
+	<div class="release-rectangle"></div>
+	<p class="tabel-title-subscribe">INSTRUCTION PAGE</p>
+	<p class="header-config">configuration</p>
+	<p class="instruction-config">
+		•   The pages of the landing page shall all be listed in the menu.<br>
+		•   From each page you can navigate to another page.<br>
+		•   There is a general configuration used as default on all the pages.<br>
+		•   The configuration can be further overruled for the maintenance column.<br>
+		•   Instead of  version there must be an option to change it to text.<br>
+		•   The date and time of latest update of the Page must be shown (with time-zone).<br>	
+	</p>
+
+	<p class="header-components">components</p>
+	<p class="instruction-components">
+		These are the requirements for the components: <br>
+		•   For each component there is a general configuration. <br>
+		•   The configuration for a component can be overruled per page.<br>
+		•   Once a component is “integrated” newer versions with the same <Br>
+		    major number are shown in the maintenance column<Br>
+		•   Click on the relevant component for extra information.<Br>
+	</p>
+
+	<p class="header-releases">new releases</p>
+	<p class="instruction-releases">
+		These are the requirements for the new releases of the landing page and updates:<br>
+		•   One page per Quarterly release.<br>
+		•   If there is a release of a component show it.<br>
+		•   With product with new RC show the solved issues this is also with maintenance. <br>
+		•   Must be able to specify the different versions for components across <br>
+		    multiple quarterly releases.<br>
+		•   Per quarterly release there shall be a subscribe and unsubscribe button. <br>
+		    So they can be notified in case of changes.<br>
+		•   A notification shall be send to all subscribed email addresses in case of a change<br>
+		    in versions of a component on a page, and you get a notification on the dashboard.<br>
+		•   In the notification email there must be a list of all the changes since the last update.<br>
+		•   Commentary/note’s must be available next to the quarterly release.<br>
+		•   Instead of version there must be an option to change it to text.<br>
+		•   If there is a communication failure between Art-factory and the landing page<br>
+		    there shouldn’t be an email send to the client.<br>
+
+	</p>
+
+	<p class="header-openbug">open bugs</p>
+	<p class="instruction-openbug">
+		These are the rules around the “bugbox”:<br>
+		•   If the product has <b>less</b> than 5 major bugs and no critical bugs the bugbox<br>
+		    becomes <b>green</b>.<br>
+		•   If the product has <b>more</b> than 5 major bugs and no critical bugs the bugbox <br>
+		    becomes <b>orange</b>.<br>
+		•   If the product has <b>more</b> than 10 major bugs or more than 1 critical bug the bugbox <br>
+		    becomes <b>red</b>.<br>
+		•   If the information can’t be found ( to error or not available) the bugbox becomes <br>
+		    <b>grey</b> with an – in it. <br>
+		•   The bugbox is only shown in the <b>newest</b> release of the landing page.<br>
+		•   The changes in the bugbox must <b>not</b> trigger the notification email to the client.<br>
+		•   Click on the relevant bug to get more information of the major and minor bugs.<br>
+
+	</p>
+
+
+	<p class="header-maintenance">maintenance</p>
+	<p class="instruction-maintenance">
+		These are revolved around maintenance:<br>
+		•   If the product is integrated then maintenances becomes available.<br>
+		•   The maintenance release number must be higher than the previous release number<br>
+		     but with the same mayor number (example = 1.0.0 becomes 1.1.0).<br>
+		•   You must be able to tell the normal release and maintenance release apart.<br>
+		•   Commentary/note’s must be available next to the maintenance release.<br>
+		•   For a product with release candidates show the solved issues this is also <br>
+		     with maintenance. <br>
+	</p>
+
+	<p class="header-dashboard">dashboard</p>
+	<p class="instruction-dashboard">
+		<b>Account added:</b><br>
+		Users can turn on/off their notifications on the dashboard. And a overview of all <br>
+		the users subscribes.<br><br>
+
+		<b>Notification bell:</b><br>
+		The notifications on the dashboard can be showed here, the user can turn this off or on.<br><br>
+
+		<b>Instruction page:</b><br>
+		An instruction page for newcomers or inexperienced users. Where they can <br>
+		learn what the dashboard is for, what you can do with it and explanations of features.<br><br>
+
+		<b>Releases:<br></b>
+		The releases with a “    “ means it has been fully released and is ready for use. <br><br>
+
+		<b>Subscription:<br></b>
+		Users can now unsubscribe on the releases they subscribed on. With one click on the<br>
+		release it automatically unsubscribes or subscribes. <br>
+
+	</p>
+</body>
+</html>
